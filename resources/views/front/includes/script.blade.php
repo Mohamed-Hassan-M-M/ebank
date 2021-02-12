@@ -1,0 +1,12 @@
+<script src="{{asset('assets/front/js/jquery-3.3.1.min.js')}}"></script>
+<script src="{{asset('assets/front/js/jquery-ui.js')}}"></script>
+<script src="{{asset('assets/front/js/popper.min.js')}}"></script>
+<script src="{{asset('assets/front/js/bootstrap.min.js')}}"></script>
+<script src="{{asset('assets/front/js/owl.carousel.min.js')}}"></script>
+<script src="{{asset('assets/front/js/jquery.countdown.min.js')}}"></script>
+<script src="{{asset('assets/front/js/jquery.easing.1.3.js')}}"></script>
+<script src="{{asset('assets/front/js/aos.js')}}"></script>
+<script src="{{asset('assets/front/js/jquery.fancybox.min.js')}}"></script>
+<script src="{{asset('assets/front/js/jquery.sticky.js')}}"></script>
+<script src="{{asset('assets/front/js/isotope.pkgd.min.js')}}"></script>
+<script src="{{asset('assets/front/js/main.js')}}"></script>
